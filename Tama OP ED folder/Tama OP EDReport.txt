@@ -1,0 +1,86 @@
+Report created: 
+	11/1/2023	11:34:39 PM
+
+Project name: Tama OP ED.aep
+
+Source files collected to: 
+	D:\COMMISION\ASSETS COMM\Tamaneko Meiriya\OP & ED\Tama OP ED folder
+
+Source files collected: All
+
+Collected comps:  
+	Opening
+	tama_3.0_opening
+	eyes
+	eyes closed
+	chara
+	background_opening.png Comp 1
+	Ending
+	tama_3.0_ending
+	Eye-R
+	Eye-L
+	eyes
+	eyes closed
+	chara
+	Opening Final
+	Ending Final
+	
+Number of collected files:  11
+
+Size of collected files:  219 MB
+
+Collected source files: 
+	D:\COMMISION\ASSETS COMM\Tamaneko Meiriya\OP & ED\Cat.png
+	D:\COMMISION\ASSETS COMM\Tamaneko Meiriya\OP & ED\Render\Ending Fix.mp4
+	D:\COMMISION\ASSETS COMM\Tamaneko Meiriya\OP & ED\Render\Opening.mp4
+	D:\COMMISION\ASSETS COMM\Tamaneko Meiriya\OP & ED\Tama_OP_ED\background_ending.png
+	D:\COMMISION\ASSETS COMM\Tamaneko Meiriya\OP & ED\Tama_OP_ED\background_opening.png
+	D:\COMMISION\ASSETS COMM\Tamaneko Meiriya\OP & ED\Tama_OP_ED\Eye Op\Eye ED.mp4
+	D:\COMMISION\ASSETS COMM\Tamaneko Meiriya\OP & ED\Tama_OP_ED\Eye Op\Eye OP.mp4
+	D:\COMMISION\ASSETS COMM\Tamaneko Meiriya\OP & ED\Tama_OP_ED\tama_3.0_ending.psd
+	D:\COMMISION\ASSETS COMM\Tamaneko Meiriya\OP & ED\Tama_OP_ED\tama_3.0_opening.psd
+	D:\COMMISION\MV\AbsintheVii\Idol\Assets\ライトリーク.mp4
+	D:\COMMISION\MV\Tatari 2\6 Ground Fog Rolling.mp4
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  16
+
+Effect:  
+	
+Effect:  AutoSway Pin
+	
+Effect:  Brightness & Contrast
+	
+Effect:  CC RepeTile
+	
+Effect:  Crate's Godrays
+	
+Effect:  Curves
+	
+Effect:  Deep Glow
+	
+Effect:  Drop Shadow
+	
+Effect:  Gaussian Blur
+	
+Effect:  HandyCam
+	
+Effect:  Keylight (1.2)
+	
+Effect:  Looks
+	
+Effect:  Optical Flares
+	
+Effect:  Puppet
+	
+Effect:  Roughen Edges
+	
+Effect:  Slider Control
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Janda Manatee Solid”, Font style: “Regular”
+
